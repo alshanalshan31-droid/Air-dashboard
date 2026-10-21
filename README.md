@@ -42,5 +42,6 @@ Dataset from [Maven Analytics](https://mavenanalytics.io/data-playground/airbnb-
 
 ## Dashboard Preview
 
-![Overview](images/overview.png)
-![Reviews](images/reviews.png)
+![Overview](https://github.com/alshanalshan31-droid/Air-dashboard/blob/main/Snapshot%20of%20the%20Dashboard
+)
+               
